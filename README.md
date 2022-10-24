@@ -13,9 +13,9 @@ For the bike sharing business, predicting the number of bikes precisely is very 
 - weather.csv - Data about the weather on a specific day for specific station id.
 - Answers of the question 3 and 4 are at end of the notebook.
 
-Jupyter Notebook --> [*Here*](https://github.com/tanerceyhanli/Bike-Share-Demand-Prediction-in-San-Francisco/blob/main/Bike-Share-Demand-Prediction-in-San-Francisco.ipynb) <br>
-EDA with Tableau --> [*Here*](https://tanerceyhanli.github.io/Bike-Share-Demand-Prediction-in-San-Francisco/)
+Jupyter Notebook --> [*Here*](https://github.com/ufukceyhanli/Bike-Share-Demand-Prediction-in-San-Francisco/blob/main/Bike-Share-Demand-Prediction-in-San-Francisco.ipynb) <br>
+EDA with Tableau --> [*Here*](https://ufukceyhanli.github.io/Bike-Share-Demand-Prediction-in-San-Francisco/)
 
 Ufuk Taner CEYHANLI <br>
-[*tanerceyhanli.github.io*](https://tanerceyhanli.github.io)
+[*https://ufukceyhanli.com*](https://ufukceyhanli.com)
 
